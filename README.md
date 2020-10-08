@@ -1,4 +1,12 @@
-# Notus Svelte <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnotus-svelte%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20Svelte%20UI%20Kit%20and%20Admin.%20Let%20Notus%20Svelte%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level." target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
+# [Svelte Admin Template](https://ui-themes.com/svelte-admin-template-notus-free/) - Notus 
+
+Notus Svelte is Free and Open Source. It features multiple HTML and Svelte elements and it comes with dynamic components for Svelte. Start your development with a Free Tailwind CSS and Svelte UI Kit and Admin. Let Notus Svelte amaze you with its cool features and build tools and get your project to a whole new level.
+
+- [Svelte Admin Template - Notus](https://www.creative-tim.com/product/notus-svelte?AFFILIATE=128200), the product page hosted by Creative-Tim
+- [Svelte Admin Template - Demo](https://demos.creative-tim.com/notus-svelte/?AFFILIATE=128200), the LIVE deployment 
+- [Svelte Admin Template- Notus](https://ui-themes.com/svelte-admin-template-notus-free/) - product review by [UI-Themes](https://ui-themes.com/)
+    
+<br />
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/notus-svelte/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/notus-svelte.svg)</a> <a href="https://github.com/creativetimofficial/notus-svelte/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/notus-svelte.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
 
@@ -173,3 +181,9 @@ Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_bla
 - License Agreement: <a href="https://www.creative-tim.com/license?ref=ns-readme" target="_blank">https://www.creative-tim.com/license?ref=ns-readme</a>
 - Support: <a href="https://www.creative-tim.com/contact-us?ref=ns-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=ns-readme</a>
 - Issues: <a href="https://github.com/creativetimofficial/notus-svelte/issues" target="_blank">Github Issues Page</a>
+
+<br />
+
+---
+[Svelte Admin Template](https://ui-themes.com/svelte-admin-template-notus-free/) - Notus, free product provided by Creative-Tim
+
